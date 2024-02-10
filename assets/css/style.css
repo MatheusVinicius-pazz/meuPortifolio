@@ -613,7 +613,7 @@ body.light-mode #home img#notebook-2-white {
 /*===== PROJECTS ===============================================*/
 
 #projects {
-  background-color: blue;
+  background-color: var(--secundary-color);
 }
 
 #projects header {
