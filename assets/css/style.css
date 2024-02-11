@@ -499,8 +499,8 @@ body.menu-expanded button path {
   content: "";
   display: block;
 
-  width: 35rem;
-  height: 30rem;
+  width: 27rem;
+  height: 27rem;
 
   background-color: blue;
   border-radius: 100%;
