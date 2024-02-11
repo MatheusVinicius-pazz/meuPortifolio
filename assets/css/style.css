@@ -479,7 +479,7 @@ body.menu-expanded button path {
   align-items: center;
   gap: 2rem;
 
-  animation: flutuar 3s infinite backwards;
+  /**animation: flutuar 3s infinite backwards;**/
   position: relative;
 }
 
@@ -499,8 +499,8 @@ body.menu-expanded button path {
   content: "";
   display: block;
 
-  width: 27rem;
-  height: 27rem;
+  width: 35rem;
+  height: 30rem;
 
   background-color: blue;
   border-radius: 100%;
@@ -509,7 +509,7 @@ body.menu-expanded button path {
   bottom: -3.1rem;
   z-index: -1;
 
-  animation: appear 1s 500ms backwards;
+  
 }
 
 #home img {
@@ -545,7 +545,7 @@ body.light-mode #home img#notebook-2-white {
 #home img#notebook-2 {
   position: absolute;
   z-index: 90;
-  animation: appear 1s 2s backwards;
+  
 }
 
 #home img#vidro {
