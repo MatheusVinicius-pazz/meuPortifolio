@@ -551,7 +551,7 @@ body.light-mode #home img#notebook-2-white {
 #home img#vidro {
   position: absolute;
   z-index: 100;
-  right: -2rem;
+  right: 0rem;
   animation: appear-vidro 1s 2.3s backwards;
 
   filter: contrast(5);
