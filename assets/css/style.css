@@ -127,7 +127,7 @@ section span {
 .button {
   background: none;
   border: 0.2rem solid blue;
-
+  border-radius: 100px;
   margin-bottom: 6rem;
   padding: 1.4rem 3rem;
 
@@ -157,7 +157,7 @@ body.light-mode #home h4 {
 .button:hover {
   color: #fff;
   background-color: blue;
-  border: 0.2rem solid var(--primary-hover);
+  border: 0.2rem solid ;
   cursor: pointer;
 }
 
